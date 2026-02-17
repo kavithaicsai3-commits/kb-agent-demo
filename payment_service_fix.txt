@@ -1,0 +1,2 @@
+Increased payment retry timeout from 30s to 60s
+to prevent transaction failures during peak load.
